@@ -1,0 +1,7 @@
+{
+  "name": "salinan 15/12 - Aplikasi ERP",
+  "description": "A centralized operational dashboard for enterprise teams to access tools, SOPs, workflows, and resources in a unified interface.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
